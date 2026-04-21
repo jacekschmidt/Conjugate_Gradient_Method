@@ -1,5 +1,5 @@
 # The Conjugate Gradient Method for Solving Sparse Symmetric Positive Definite Linear Systems
-**Report (PDF):** [[Zenodo DOI]()]  
+**Report (PDF):** [[Zenodo DOI](https://doi.org/10.5281/zenodo.19674996)]  
 **Code Repository:** [[GitHub link](https://github.com/jacekschmidt/Conjugate_Gradient_Method/edit/main/README.md)]
 ## Overview
 
