@@ -1,4 +1,4 @@
-# Conjugate Gradient Method for Large Linear Systems
+# The Conjugate Gradient Method for Solving Sparse Symmetric Positive Definite Linear Systems
 
 ## Overview
 
