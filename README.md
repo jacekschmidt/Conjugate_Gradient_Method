@@ -1,5 +1,6 @@
 # The Conjugate Gradient Method for Solving Sparse Symmetric Positive Definite Linear Systems
-
+**Report (PDF):** [[Zenodo DOI]()]  
+**Code Repository:** [[GitHub link](https://github.com/jacekschmidt/Conjugate_Gradient_Method/edit/main/README.md)]
 ## Overview
 
 This project implements the Conjugate Gradient Method (CGM) for solving large linear systems of the form:
